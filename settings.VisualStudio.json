@@ -1,0 +1,14 @@
+/* Visual Studio Settings File */
+{
+  "textEditor.codeCompletions.preferences.showCodeCompletionsOnNewLines": false,
+  "textEditor.codeCompletions.preferences.acceptPartialSuggestionWord": false,
+  "textEditor.codeCompletions.preferences.acceptPartialSuggestionLine": false,
+  "textEditor.codeCompletions.preferences.useColorizedText": false,
+  "textEditor.codeCompletions.general.codeCompletionsProviders": [],
+  "textEditor.codeCompletions.compatibility.handleEscapeAlongsideVsVim": false,
+  "textEditor.codeLens.enabled": false,
+  "debugging.general.useExceptionHelper": true,
+  "debugging.general.enableStepFiltering": false,
+  "intellicode.advanced.logging.suggestionsLogging": true,
+  "copilot.general.debugger.exceptionAnalysisThinking": "Low"
+}
